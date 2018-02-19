@@ -11,7 +11,7 @@ To install required libraries, run the following commands (copy and paste):
 
 install.packages("<b>PACKAGE NAME</b>")
 
-Example
+Example:<br>
 install.packages("raster")
 
 <b>IMPORTANT!</b>
