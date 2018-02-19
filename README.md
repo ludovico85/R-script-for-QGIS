@@ -16,3 +16,6 @@ To activate R script from QGIS please click on the activate button under Rscript
 
 <a href="http://it.tinypic.com?ref=jrp6zc" target="_blank"><img src="http://i67.tinypic.com/jrp6zc.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
+list fo script
+
+Define and projection.rsx #The script allows to define and project several shapefiles stored in folder and subfolders
