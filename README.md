@@ -14,6 +14,9 @@ install.packages("<b>PACKAGE NAME</b>")
 Example
 install.packages("raster")
 
+<br>Important!</br>
+Please check the required packages for each script in the <br>List of scripts<br>
+
 To activate R script from QGIS please click on the activate button under Rscript menu R in the Processing Options and select the correct R folder.
 
 <a href="http://it.tinypic.com?ref=jrp6zc" target="_blank"><img src="http://i67.tinypic.com/jrp6zc.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
@@ -26,4 +29,4 @@ C:\Users\.qgis2\processing\rscripts
 
 <b>List of scripts<b/>
 
-Define and projection.rsx #The script allows to define and project several shapefiles stored in folder and subfolders
+Define and projection.rsx #The script allows to define and project several shapefiles stored in folder and subfolders (required packages: raster, rgdal)
