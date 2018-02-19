@@ -24,6 +24,6 @@ C:\Users\.qgis2\processing\rscripts
 
 <a href="http://it.tinypic.com?ref=fu9stj" target="_blank"><img src="http://i64.tinypic.com/fu9stj.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-<b>List of scripts</>
+<b>List of scripts<b/>
 
 Define and projection.rsx #The script allows to define and project several shapefiles stored in folder and subfolders
