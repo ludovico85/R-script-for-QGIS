@@ -21,7 +21,7 @@ To activate R script from QGIS please click on the activate button under Rscript
 
 <a href="http://it.tinypic.com?ref=jrp6zc" target="_blank"><img src="http://i67.tinypic.com/jrp6zc.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Copy and paste the script (.rsx) in the Rscript folder
+Copy and paste the script (.rsx) and the help file (sx.help) in the Rscript folder
 
 C:\Users\.qgis2\processing\rscripts
 
