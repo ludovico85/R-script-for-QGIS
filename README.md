@@ -28,6 +28,7 @@ C:\Users\.qgis2\processing\rscripts
 <a href="http://it.tinypic.com?ref=fu9stj" target="_blank"><img src="http://i64.tinypic.com/fu9stj.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 <b>List of scripts</b>
-
-<font color="red">Define and projection.rsx</font> #The script allows to define and project several shapefiles stored in folder and subfolders (required packages: raster, rgdal)
-<font color="red">Zonal statistics for categorical raster.rsx</font> #The script allows to calculate zonal statistics for categorical raster (required packages: raster, rgdal, dplyr)
+<ul>
+<li><font color="red">Define and projection.rsx</font> #The script allows to define and project several shapefiles stored in folder and subfolders (required packages: raster, rgdal)</li>
+<li><font color="red">Zonal statistics for categorical raster.rsx</font> #The script allows to calculate zonal statistics for categorical raster (required packages: raster, rgdal, dplyr)</li>
+</ul>
