@@ -17,13 +17,13 @@ install.packages("raster")
 <b>IMPORTANT!</b>
 Please check the required packages for each script in the <b>List of scripts</b>
 
-To activate R script from QGIS please click on the activate button under Rscript menu R, in the Processing Options and select the correct R folder.
+To activate R script from QGIS please click on the activate button under Rscript menu R, in the Processing options and select the correct R folder.
 
 <a href="http://it.tinypic.com?ref=jrp6zc" target="_blank"><img src="http://i67.tinypic.com/jrp6zc.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Copy and paste the script (.rsx) and the help file (sx.help) in the Rscript folder
 
-C:\Users\.qgis2\processing\rscripts
+C:\Users\ .qgis2\processing\rscripts
 
 <a href="http://it.tinypic.com?ref=fu9stj" target="_blank"><img src="http://i64.tinypic.com/fu9stj.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
