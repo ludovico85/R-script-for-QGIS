@@ -7,7 +7,7 @@
 require(raster)
 require(rgdal)
 setwd(Input_folder)
-files<-list.files(getwd(), pattern=".shp", recursive=TRUE)
+files<-list.files(getwd(), pattern=".shp$", recursive=TRUE)
 
 for (i in 1:length(files))
 {
